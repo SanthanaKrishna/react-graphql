@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "id": "23",
+            "firstName": "Dunlap Hubbard",
+            "age": 36,
+            "companyId": "1",
+            "email": "dunlaphubbard@cedward.com"
+        },
+        {
+            "id": "40",
+            "firstName": "Santhana",
+            "age": 20,
+            "company": "2",
+            "email": "santhana96@photon.com"
+        },
+        {
+            "id": "41",
+            "firstName": "Krishna",
+            "age": 20,
+            "companyId": "2",
+            "email": "santhana96@photon.com"
+        }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Apple",
+            "description": "iphone"
+        },
+        {
+            "id": "2",
+            "name": "Google",
+            "description": "search"
+        }
+    ]
+}
